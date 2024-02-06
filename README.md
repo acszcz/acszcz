@@ -14,7 +14,7 @@ const toru = {pronouns: "any",
                                 oci: "oracle cloud infrastructure 2023 foundations associate"
                               },
               challenge: "7 days of code"
-}
+              }
 ```
 
 ✨ www.linkedin.com/in/anacaruszcz/ | 📫 acszcz2@gmail.com
