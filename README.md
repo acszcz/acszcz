@@ -13,8 +13,7 @@ toru = {
                       {'oracle': 'one - oracle next education'}
                     ],
        'certifications': [
-                          {'oci': 'oracle cloud infrastructure foundations associate'},
-                          {'aws': 'aws cloud pratictioner'} 
+                          {'oci': 'oracle cloud infrastructure foundations associate'}
                         ]
         }
 ```
