@@ -10,7 +10,8 @@ toru = {
         'tools': ['react', 'pandas', 'tkinter', 'numpy', 'selenium', 'springboot'],
         'studying': [
                       {'cisco': 'cybersecurity analyst'},
-                      {'oracle': 'one - oracle next education'}
+                      {'oracle': 'one - oracle next education'},
+                      {'womakers code': 'data analyst bootcamp'}
                     ],
        'certifications': [
                           {'oci': 'oracle cloud infrastructure foundations associate'}
