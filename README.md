@@ -6,8 +6,8 @@
 I have experience gathering business requirements, analyzing processes, developing automations, and transforming data into actionable insights. My technical background combines software development, data analysis, and process improvement, allowing me to bridge business needs and technical solutions.
 
 Technical Skills:
-- Programming: Python, PySpark, SQL
-- Data Analysis: Pandas, NumPy, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, PySpark, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
 - Databases: Relational Database Modeling, SQL Query Optimization
 - Data Engineering: ETL/ELT Concepts, Data Pipelines, Data Integration
 - Automation: Python Automation, Selenium, Process Automation (RPA)
